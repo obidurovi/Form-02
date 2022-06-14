@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    /* padding-top: 20px; */
+    font-family: roboto;
+}
+
+body {
+    background-color: #ccc;
+    padding-top: 50px;
+}
+
+#name {
+    border-color: black;
+    /* display: none; */
+}
+
+#email {
+    border-color: black;
+    /* display: none; */
+}
+
+#cell {
+    border-color: black;
+    /* display: none; */
+}
+
+#user {
+    border-color: black;
+    /* display: none; */
+}
